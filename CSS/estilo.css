@@ -1,0 +1,59 @@
+h6{
+    color:rgb(100, 29, 29);
+    border: 0.3rem groove black;
+    border-radius: 0.5rem groove white;
+    border-style:inset;
+}
+
+h5{
+    color:rgb(129, 29, 29);
+    border: 0.39rem groove rgb(31, 31, 31);
+    border-radius: 0.45rem groove rgb(190, 190, 190);
+    border-style:outset
+}
+
+h4{
+    color:rgb(154, 29, 29);
+    border: 0.48rem groove rgb(53, 53, 53);
+    border-radius: 0.4rem groove rgb(150, 150, 150);
+    border-style:inset
+}
+
+h3{
+    color:rgb(179, 29, 29);
+    border: 0.57rem groove rgb(83, 83, 83);
+    border-radius: 0.35rem groove rgb(100, 100, 100);
+    border-style:outset
+}
+
+h2{
+    color:rgb(206, 29, 29);
+    border: 0.66rem groove rgb(114, 114, 114);
+    border-radius: 0.3rem groove rgb(40, 40, 40);
+    border-style:insh3et
+}
+
+h1{
+    color:rgb(230, 29, 29);
+    border: 0.75rem groove rgb(200, 200, 200);
+    border-radius: 0.25rem groove rgb(0, 0, 0);
+    border-style:outset
+}
+
+h1#messi{
+    color:rgb(230, 29, 29);
+    border: 0.75rem groove rgb(200, 200, 200);
+    border-radius: 0.25rem groove rgb(0, 0, 0);
+    border-style:outset
+}
+
+h1#neymar{
+    color:rgb(230, 29, 29);
+    border: 0.75rem groove rgb(200, 200, 200);
+    border-radius: 0.25rem groove rgb(0, 0, 0);
+    border-style:outset
+}
+
+img{
+    width: 10rem;
+}
